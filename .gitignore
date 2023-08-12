@@ -1,0 +1,5 @@
+# Environment variable
+/python/.my_env/*
+
+# Jupyter notebooks checkpoints
+python/.ipynb_checkpoints/*
