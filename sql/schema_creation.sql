@@ -43,8 +43,7 @@ enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
 
-############ load data ############
-# Verify data loading
+############ Verify data loading ############
 # Raw_Employee Table
 SELECT COUNT(*) FROM Raw_Employee;
 SELECT * FROM Raw_Employee LIMIT 10;
