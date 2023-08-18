@@ -3,3 +3,6 @@
 
 # Jupyter notebooks checkpoints
 python/.ipynb_checkpoints/*
+
+#images
+powerbi/resources/*
