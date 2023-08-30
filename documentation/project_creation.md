@@ -40,7 +40,7 @@
     ```
 
 ## NOTE
-To remove a file from the history of GIT use  the following command [source]()
+To remove a file from the history of GIT use the following command [source]()
 ```bash
 git filter-branch --tree-filter 'rm -f Raw_Employee.csv' HEAD
 ```
