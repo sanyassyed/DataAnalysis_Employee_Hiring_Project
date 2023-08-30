@@ -23,7 +23,11 @@ Potential merger plans are in progress and the company president seeks an insigh
 
 ![Visualization_1](documentation/images/v1.PNG)
 
+
+
 ![Visualization_2](documentation/images/v2.PNG)
+
+
 
 ![Visualization_3](documentation/images/v3.PNG)
 
