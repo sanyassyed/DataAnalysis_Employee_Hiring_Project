@@ -9,3 +9,5 @@ python/.ipynb_checkpoints/*
 #images
 powerbi/resources/*
 
+# large data files
+*/*.csv

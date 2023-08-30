@@ -28,3 +28,19 @@
     ```
 
 ## PowerBI - Transformation & Visualization
+
+
+## Uploading Local Repo to GIT
+* Create a repo `DataAnalysis_Employee_Hiring_Project` on GitHub
+* Goto the local repo
+    ```bash
+    git remote add origin git@github.com:sanyassyed/DataAnalysis_Employee_Hiring_Project.git
+    git branch -M main
+    git push -u origin main
+    ```
+
+## NOTE
+To remove a file from the history of GIT use  the following command [source]()
+```bash
+git filter-branch --tree-filter 'rm -f Raw_Employee.csv' HEAD
+```
