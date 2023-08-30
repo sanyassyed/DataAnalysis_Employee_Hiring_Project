@@ -8,6 +8,8 @@
     ```bash
     conda create --prefix ./.my_env python=3.10.9 pip
     conda activate .my_env
+    # install necessary python packages
+    pip install python-decouple==3.8 mysql-connector-python pandas numpy sqlalchemy
     # install the kernal so the jupyter notebook uses the python packages installed in the virtual env and not the base env
     pip install ipykernel
     ipython kernel install --user --name=conda-myenv-kernel-new
@@ -23,10 +25,6 @@
     USER=******
     PASSWORD=******
     DATABASE=******
-    ```
-* Install the python packages to import these environment variable in a python file
-    ```bash
-    pip install python-decouple==3.8 mysql.connector pandas numpy
     ```
 
 ## PowerBI - Transformation & Visualization
