@@ -44,5 +44,5 @@ Find here all the steps taken to create this project
 To remove a file from the history of GIT use the following command [source]()
 ```bash
 git filter-branch --tree-filter 'rm -f Raw_Employee.csv' HEAD
-
+git filter-branch -f --index-filter 'git rm -rf --cached --ignore-unmatch data/Employee.csv' HEAD
 ```
