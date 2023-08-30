@@ -21,11 +21,11 @@ Potential merger plans are in progress and the company president seeks an insigh
 
 ## Visualization & Recommendations
 
-![Visualization_1](documentation/images/v1.png)
+![Visualization_1](documentation/v1.png)
 
-![Visualization_1](documentation/images/v2.png)
+![Visualization_1](documentation/v2.png)
 
-![Visualization_1](documentation/images/v3.png)
+![Visualization_1](documentation/v3.png)
 
 
 ## Project Folders & Reports
