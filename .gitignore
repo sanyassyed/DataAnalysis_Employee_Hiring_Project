@@ -1,8 +1,11 @@
 # Environment variable
 /python/.my_env/*
+/*/.env*
+.my_env*
 
 # Jupyter notebooks checkpoints
 python/.ipynb_checkpoints/*
 
 #images
 powerbi/resources/*
+
