@@ -1,4 +1,6 @@
 # Steps to recreate the project
+Find here all the steps taken to create this project
+
 ## PowerBI -  Data Extraction
 ## SQL - Data Loading
 ## Python - EDA & Pre-Cleaning
