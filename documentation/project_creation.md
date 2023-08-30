@@ -31,7 +31,6 @@ Find here all the steps taken to create this project
 
 ## PowerBI - Transformation & Visualization
 
-
 ## Uploading Local Repo to GIT
 * Create a repo `DataAnalysis_Employee_Hiring_Project` on GitHub
 * Goto the local repo
